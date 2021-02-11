@@ -1,8 +1,8 @@
 # wifi-deauth
 
-Check for if you are using Arduino Library
-<img src="image/Node_MCU_PIN.png" width="500">
+If your using Arduino Library then pin config.
+<img src="image/Node_MCU_PIN.png" width="300">
 
 
-How to make a wifi Deauther with circuit digram
-<img src="image/Device.jpeg" width="500">
+Wifi Deauther device
+<img src="image/Device.jpeg" width="300">
